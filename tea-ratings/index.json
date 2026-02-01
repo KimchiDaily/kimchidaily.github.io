@@ -1,0 +1,49 @@
+{
+  "format": "particle",
+  "title": "Tea Categories",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Select a tea type to see the full log.",
+      "style": { "text-align": "center" }
+    },
+    {
+      "type": "button",
+      "label": "Oolong Tea Log",
+      "action": "/tea-ratings/oolong/oolong"
+    },
+    {
+      "type": "button",
+      "label": "Black Tea Log",
+      "action": "/tea-ratings/black/black"
+    },
+    {
+      "type": "button",
+      "label": "Green Tea Log",
+      "action": "/tea-ratings/green/green"
+    },
+    {
+      "type": "button",
+      "label": "White Tea Log",
+      "action": "/tea-ratings/white/white"
+    },
+    {
+      "type": "button",
+      "label": "Pu-erh Tea Log",
+      "action": "/tea-ratings/pu-erh/pu-erh"
+    },
+    {
+      "type": "button",
+      "label": "Herbal Tea Log",
+      "action": "/tea-ratings/herbal/herbal"
+    },
+    {
+      "type": "separator"
+    },
+    {
+      "type": "button",
+      "label": "⬅ Back Home",
+      "action": "/"
+    }
+  ]
+}
