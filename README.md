@@ -1,13 +1,12 @@
-# 🍵 Kimchi's Tea Log for Playdate
+# 🍵 KimchiDaily's Tea Log for the Playdate Console 🟨
 
 A 1-bit tea tasting journal designed for the **Playdate** handheld console. 
 
-This site is a personal collection of tea reviews, rated on a 1-5 leaf scale. It is built to be viewed exclusively using the **Constellation Browser** by Particle Studios.
+This site is a personal collection of tea reviews, rated on a 1-5 scale. It is built to be viewed exclusively using the **Constellation Browser** by Particle Studios.
 
 ## 🍃 Features
-* **Tea Reviews:** Detailed logs of different brews (Oolong, Green, Herbal, etc.).
-* **1-5 Leaf Rating:** A custom 1-bit visual rating system.
-* **Brew Specs:** Tracking temperatures and steeping times.
+* **1-5 Rating:** A simple preference rating from 1-5 using built-in Playdate icons.
+* **Tea Notes:** Keywords that describe the tea to me.
 
 ## 🌐 How to Visit
 To visit this log on your Playdate:
@@ -17,7 +16,7 @@ To visit this log on your Playdate:
 
 ## 🛠️ Technical Info
 * **Format:** [Particle JSON](https://browser.particlestudios.eu/#particle-formatting)
-* **Graphics:** Custom 1-bit pixel art for tea leaf icons.
+* **Graphics:** All created by me, otherwise noted.
 * **Hosting:** GitHub Pages.
 
 ---
