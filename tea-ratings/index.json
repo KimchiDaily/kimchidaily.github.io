@@ -42,7 +42,7 @@
     },
     {
       "type": "button",
-      "label": "⬅ Back Home",
+      "label": "<-- Back Home",
       "action": "/"
     }
   ]

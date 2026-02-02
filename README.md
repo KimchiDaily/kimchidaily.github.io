@@ -5,7 +5,7 @@ A 1-bit tea tasting journal designed for the **Playdate** handheld console.
 This site is a personal collection of tea reviews, rated on a 1-5 scale. It is built to be viewed exclusively using the **Constellation Browser** by Particle Studios.
 
 ## 🍃 Features
-* **1-5 Rating:** A simple preference rating from 1-5 using built-in Playdate icons.
+* **1-5 Rating:** A simple preference rating from 1-5.
 * **Tea Notes:** Keywords that describe the tea to me.
 
 ## 🌐 How to Visit

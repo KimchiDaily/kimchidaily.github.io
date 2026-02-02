@@ -30,9 +30,10 @@
     {
       "type": "list",
       "items": [
-        "*Rating:* Ⓑ Ⓑ Ⓑ Ⓑ ⊙",
+        "*Rating:* 0/5",
         "*Caffeine Level:* TBD",
-        "*Notes:* TBD, TBD, TBD, TBD, TBD"
+        "*Notes:* TBD, TBD, TBD, TBD, TBD",
+        "*Year Purchased:* TBD"
       ]
     },
     {
@@ -40,7 +41,7 @@
     },
     {
       "type": "button",
-      "label": "⬅ Back to Categories",
+      "label": "<-- Back to Categories",
       "action": "/tea-ratings/index"
     }
   ]

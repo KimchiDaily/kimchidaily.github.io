@@ -30,9 +30,10 @@
     {
       "type": "list",
       "items": [
-        "*Rating:* Ⓑ Ⓑ Ⓑ Ⓑ Ⓑ",
+        "*Rating:* 5/5",
         "*Caffeine Level:* Low",
-        "*Notes:* Rice, Savory, Toasted, Earthy, Nutty"
+        "*Notes:* Rice, Savory, Toasted, Earthy, Nutty",
+        "*Year Purchased:* 2023"
       ]
     },
     {
@@ -40,7 +41,7 @@
     },
     {
       "type": "button",
-      "label": "⬅ Back to Categories",
+      "label": "<-- Back to Categories",
       "action": "/tea-ratings/index"
     }
   ]
