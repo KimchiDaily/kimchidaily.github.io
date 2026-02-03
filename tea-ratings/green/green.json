@@ -39,6 +39,33 @@
     {
       "type": "separator"
     },
+       {
+      "type": "paragraph",
+      "text": "*Peach Bellini (The Tea Smith)*",
+      "style": {
+        "text-align": "center",
+        "margin-bottom": 10
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "--- **Tasting Details** ---",
+      "style": {
+        "text-align": "center"
+      }
+    },
+    {
+      "type": "list",
+      "items": [
+        "*Rating:* 1/5",
+        "*Caffeine Level:* Low",
+        "*Notes:* Wine, Fruit, Floral, Sweet",
+        "*Year Purchased:* 2025"
+      ]
+    },
+    {
+			"type": "separator"
+		},
     {
       "type": "button",
       "label": "<-- Back to Categories",
